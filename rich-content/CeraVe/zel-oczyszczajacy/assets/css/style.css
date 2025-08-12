@@ -361,7 +361,7 @@
     margin-left: auto;
   }
 }
-@container es-rc-content (min-width: 720px) {
+@container es-rc-content (min-width: 719px) {
   #es-rc #es-rc-content .es-ingredients__list {
     justify-content: flex-end;
   }
@@ -439,7 +439,7 @@
     width: 55%;
   }
 }
-@container es-rc-content (min-width: 720px) {
+@container es-rc-content (min-width: 719px) {
   #es-rc #es-rc-content .es-benefits {
     min-height: 450px;
     padding: 32px;
@@ -492,7 +492,7 @@
     transform: translateY(-50%);
   }
 }
-@container es-rc-content (min-width: 720px) {
+@container es-rc-content (min-width: 719px) {
   #es-rc #es-rc-content .es-formula-use__image {
     width: 50%;
   }
@@ -562,7 +562,7 @@
     clip-path: polygon(57% 0%, 100% 0%, 100% 100%, 5% 100%);
   }
 }
-@container es-rc-content (min-width: 720px) {
+@container es-rc-content (min-width: 719px) {
   #es-rc #es-rc-content .es-packaging {
     flex-direction: row;
   }
@@ -656,7 +656,7 @@
 #es-rc #es-rc-content .es-cross__item__image:hover ~ .es-cross__item__button {
   background-color: #46d7ac;
 }
-@container es-rc-content (min-width: 720px) {
+@container es-rc-content (min-width: 719px) {
   #es-rc #es-rc-content .es-cross__content {
     flex-direction: row;
     align-items: flex-start;
